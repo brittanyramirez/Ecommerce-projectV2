@@ -48,7 +48,7 @@ export default function Products() {
     setLoading(true);
     try {
       const query = buildQuery();
-      const res = await fetch(`/api/products?${query}`);
+      const res = await fetch(`https://ecommerce-projectv2.onrender.com/api/products?${query}`);
 
       if (!res.ok) {
         throw new Error(`Server error: ${res.status}`);
