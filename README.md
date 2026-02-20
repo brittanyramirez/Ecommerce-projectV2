@@ -5,7 +5,7 @@ Blush & Britt is a full stack, responsive beauty eCommerce web application desig
 This second iteration transforms the original static beauty storefront into a dynamic full stack application powered by a MySQL database, Node/Express backend, and React (Vite) frontend architecture.
 
 ## Live Demo
- my deployed link will go here 
+(https://frontend-ctuv.onrender.com/)
 
 
 ## Technologies Used
